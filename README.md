@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/xtenso/xtenso/blob/main/snake.svg" alt="Snake animation" />
-
-###
