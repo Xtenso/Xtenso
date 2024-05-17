@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xtenso/xtenso/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xtenso/xtenso/blob/main/snake.svg" alt="Snake animation" />
 
 ###
