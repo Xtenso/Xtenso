@@ -55,4 +55,4 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtenso&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtenso&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=stars,issues)
