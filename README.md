@@ -4,7 +4,8 @@
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xtenso&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=stars,issues&hide_border=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtenso&theme=transparent&layout=compact&langs_count=8&card_width=320&hide_border=true" />
-  </div>
+</div>
+![xtenso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xtenso&theme=prussian&hide_border=true)
 
 ###
 
