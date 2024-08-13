@@ -19,7 +19,7 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/angular-original.svg" height="30" alt="git logo" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/angular-original.svg" height="30" alt="angular logo" /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
   <img width="12" />
@@ -48,7 +48,7 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/premierepro-plain.svg" height="30" alt="androidstudio logo" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/premierepro-plain.svg" height="30" alt="premiere pro logo" /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" /></a>
 </div>
