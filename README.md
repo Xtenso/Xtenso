@@ -35,10 +35,7 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   Building tools · Expanding full-stack skills · Exploring emerging frameworks  
 </p>
 
-<h3 align="center">
-  <img src="./assets/link.svg" width="20" />
-  Socials
-</h3>
+### <img src="./assets/link.svg" width="20" /> Socials
 <div align="center">
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
