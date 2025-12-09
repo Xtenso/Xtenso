@@ -22,6 +22,19 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="35" alt="Next.js" />
 </div>
 
+### <img src="./assets/folder.svg" width="20" /> Featured Projects
+- **Project A** — short description  
+- **Project B** — short description  
+- **Project C** — short description
+
+<h3 align="right">
+  <img src="./assets/lightbulb.svg" width="20" /> 
+  Currently Working On
+</h3>
+<p align="right">
+  Building tools · Expanding full-stack skills · Exploring emerging frameworks  
+</p>
+
 ### <img src="./assets/link.svg" width="20" /> Socials  
 <div align="center">
   <a href="mailto:your@email.com">
