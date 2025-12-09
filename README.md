@@ -23,9 +23,8 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 </div>
 
 ### <img src="./assets/folder.svg" width="20" /> Featured Projects
-- **Project A**
-  - **What it is**: short description
-  - **Links**: [Repo](#) · [Live Demo](#)
+- **Project A** ([Repo](#) · [Live Demo](#))
+  - short description
 - **Project B** — short description  
 - **Project C** — short description
 
