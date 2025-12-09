@@ -37,7 +37,7 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 
 <h3 align="center">
   <img src="./assets/link.svg" width="20" />
-  Socials & Data
+  Socials
 </h3>
 <div align="center">
   <a href="mailto:your@email.com">
@@ -53,6 +53,9 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linksys&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+<br>
+
 <div align="center">
   <a href="#">
   <img 
