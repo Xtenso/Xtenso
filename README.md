@@ -1,4 +1,18 @@
-<h2 align="left">Hi 👋! My name is Stefan and I'm a developer, from Bulgaria</h2>
+<!-- 🎨 Animated Header -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Welcome+to+my+GitHub!;I+Build+Clean,+Useful+Software.&center=true&size=28&color=ffc000&font=Fira+Code&pause=1000&weight=700&width=600&height=100&duration=3000">
+</div>
+
+<!-- 👤 Intro -->
+### 👋 About Me  
+I'm **Stefan**, a developer who enjoys building practical tools, exploring new tech, and crafting clean, efficient solutions. I focus on simplicity, clarity, and enjoyable user experiences.
+
+<!-- 🟦 Expertise Badges -->
+### 🛠 Expertise  
+`Front-End Development` `UI/UX Design` `Full-Stack Development` `APIs` `Web Development` `NPM Packages` `Browser Extentions`
+
+<!-- 🚀 Tech Stack Grid -->
+### 🚀 Tech Stack  
 
 ###
 <img src="./assets/socials/linkedin.svg" width="40" />
