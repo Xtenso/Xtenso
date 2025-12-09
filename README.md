@@ -5,7 +5,6 @@
 <img src="./assets/socials/website.svg" width="40" />
 <div>
 <img src="./assets/socials/gmail.svg" width="40" /> Email</div>
-<img src="./assets/socials/chromewebstore.svg" width="40" />
 
 ###
 
