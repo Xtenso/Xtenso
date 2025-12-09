@@ -54,7 +54,25 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   </a>
 </div>
 <div align="center">
-  ![GitHub Followers](https://img.shields.io/github/followers/Xtenso?label=Followers&style=for-the-badge&logo=github&logoColor=white)
-  ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Subscribers&logo=youtube&logoColor=white&color=FF0000)
-  ![YouTube Views](https://img.shields.io/youtube/channel/views/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Views&logo=youtube&logoColor=white&color=FF0000)
+  <a href="#">
+  <img 
+    src="https://img.shields.io/github/followers/Xtenso?label=Followers&style=for-the-badge&logo=github&logoColor=white"
+    height="35" 
+    alt="GitHub Followers" 
+  />
+</a>
+<a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
+  <img 
+    src="https://img.shields.io/youtube/channel/subscribers/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Subscribers&logo=youtube&logoColor=white&color=FF0000"
+    height="35" 
+    alt="YouTube Subscribers" 
+  />
+</a>
+<a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
+  <img 
+    src="https://img.shields.io/youtube/channel/views/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Views&logo=youtube&logoColor=white&color=FF0000"
+    height="35" 
+    alt="YouTube Views" 
+  />
+</a>
 </div>
