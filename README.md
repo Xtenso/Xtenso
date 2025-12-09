@@ -76,3 +76,5 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   />
 </a>
 </div>
+
+<!-- Icons used: https://www.svgrepo.com/collection/solar-broken-line-icons/ -->
