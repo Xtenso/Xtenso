@@ -35,7 +35,10 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   Building tools · Expanding full-stack skills · Exploring emerging frameworks  
 </p>
 
-### <img src="./assets/link.svg" width="20" /> Socials  
+<h3 align="center">
+  <img src="./assets/link.svg" width="20" />
+  Socials & Data
+</h3>
 <div align="center">
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
@@ -49,4 +52,9 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
   <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linksys&logoColor=white" height="35" alt="LinkedIn" />
   </a>
+</div>
+<div align="center">
+  ![GitHub Followers](https://img.shields.io/github/followers/Xtenso?label=Followers&style=for-the-badge&logo=github&logoColor=white)
+  ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Subscribers&logo=youtube&logoColor=white&color=FF0000)
+  ![YouTube Views](https://img.shields.io/youtube/channel/views/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Views&logo=youtube&logoColor=white&color=FF0000)
 </div>
