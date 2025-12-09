@@ -23,7 +23,9 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 </div>
 
 ### <img src="./assets/folder.svg" width="20" /> Featured Projects
-- **Project A** — short description  
+- **Project A**
+  - **What it is**: short description
+  - **Links**: [Repo](#) · [Live Demo](#)
 - **Project B** — short description  
 - **Project C** — short description
 
@@ -37,44 +39,44 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 
 ### <img src="./assets/link.svg" width="20" /> Socials
 <div align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:borisov.st@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Website-ffc000?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" alt="Website" />
   </a>
-  <a href="https://chrome.google.com/webstore/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-2ea14d?style=for-the-badge&logo=chrome-web-store&logoColor=white" height="35" alt="Chrome Web Store" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/in/stefanborisov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linksys&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
+<!--<div align="center">
   <a href="#">
-  <img 
-    src="https://img.shields.io/github/followers/Xtenso?label=Followers&style=for-the-badge&logo=github&logoColor=white"
-    height="35" 
-    alt="GitHub Followers" 
-  />
-</a>
-<a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
-  <img 
-    src="https://img.shields.io/youtube/channel/subscribers/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Subscribers&logo=youtube&logoColor=white&color=FF0000"
-    height="35" 
-    alt="YouTube Subscribers" 
-  />
-</a>
-<a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
-  <img 
-    src="https://img.shields.io/youtube/channel/views/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Views&logo=youtube&logoColor=white&color=FF0000"
-    height="35" 
-    alt="YouTube Views" 
-  />
-</a>
-</div>
+    <img 
+      src="https://img.shields.io/github/followers/Xtenso?label=Followers&style=for-the-badge&logo=github&logoColor=white"
+      height="35" 
+      alt="GitHub Followers" 
+    />
+  </a>
+  <a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
+    <img 
+      src="https://img.shields.io/youtube/channel/subscribers/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Subscribers&logo=youtube&logoColor=white&color=FF0000"
+      height="35" 
+      alt="YouTube Subscribers" 
+    />
+  </a>
+  <a href="https://youtube.com/channel/UCONeuBct1MMwR1cs4_xJ5GQ" target="_blank">
+    <img 
+      src="https://img.shields.io/youtube/channel/views/UCONeuBct1MMwR1cs4_xJ5GQ?style=for-the-badge&label=Views&logo=youtube&logoColor=white&color=FF0000"
+      height="35" 
+      alt="YouTube Views" 
+    />
+  </a>
+</div>-->
 
 <!-- Icons used: https://www.svgrepo.com/collection/solar-broken-line-icons/ -->
