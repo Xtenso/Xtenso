@@ -28,7 +28,7 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 - **Project C** — short description
 
 <h3 align="right">
-  <img src="./assets/lightbulb.svg" width="20" /> 
+  <img src="./assets/bulb.svg" width="20" /> 
   Currently Working On
 </h3>
 <p align="right">
