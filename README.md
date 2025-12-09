@@ -2,6 +2,9 @@
 
 ###
 <img src="./assets/socials/linkedin.svg" width="40" />
+<img src="./assets/socials/website.svg" width="40" />
+<img src="./assets/socials/gmail.svg" width="40" /> Email
+<img src="./assets/socials/chromewebstore.svg" width="40" />
 
 ###
 
