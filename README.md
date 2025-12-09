@@ -4,7 +4,7 @@
 </div>
 
 <!-- 👤 Intro -->
-###   <img src="./assets/info.svg" width="20" /> About Me  
+###   <img src="./assets/info.svg" width="30" /> About Me  
 I'm **Stefan**, a developer who enjoys building practical tools, exploring new tech, and crafting clean, efficient solutions. I focus on simplicity, clarity, and enjoyable user experiences.
 
 <!-- 🟦 Expertise Badges -->
