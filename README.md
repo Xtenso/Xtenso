@@ -3,7 +3,7 @@
 </div>
 
 ###   <img src="./assets/info.svg" width="20" /> About Me  
-I'm **Stefan**, a developer who enjoys building practical tools, exploring new tech, and crafting clean, efficient solutions. I focus on simplicity, clarity, and enjoyable user experiences.
+Hi, my name is **Stefan**. I’m a web developer who works mostly with React and its ecosystem, including frameworks like Next.js. I also build backend services with Node.js. I enjoy keeping up with new tools in the web development space, so I’ve been spending time exploring Svelte as well. Outside of core web projects, I’ve built a few browser extensions and published npm packages, and I’m planning to get into mobile development soon since React Native feels like a natural next step for someone coming from the web side.
 
 ### <img src="./assets/hammer.svg" width="20" /> Expertise  
 `Front-End Development` `UI/UX Design` `Full-Stack Development` `APIs` `Web Development` `NPM Packages` `Browser Extentions`
@@ -23,8 +23,9 @@ I'm **Stefan**, a developer who enjoys building practical tools, exploring new t
 </div>
 
 ### <img src="./assets/folder.svg" width="20" /> Featured Projects
-- **Project A** ([Repo](#) · [Live Demo](#))
+- **Project A**
   - short description
+  - [Repo](#) · [Live Demo](#)
 - **Project B** — short description  
 - **Project C** — short description
 
