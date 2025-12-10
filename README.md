@@ -23,7 +23,7 @@ Hi, my name is **Stefan**. I’m a web developer who works mostly with React and
 </div>
 
 ### <img src="./assets/folder.svg" width="20" /> Featured Projects
-#### 🥘 Smart Recipe Social Platform
+#### Smart Recipe Social Platform
 - **What it is:** A social platform where registered users can add and save favorite recipes.  
 - **Key Features:**
   - Adding recipes requires selecting products from a list of over 1,500 ingredients, each with dietary info, energy values, and more.  
@@ -32,7 +32,7 @@ Hi, my name is **Stefan**. I’m a web developer who works mostly with React and
   - Personalized recipe recommendations based on user preferences, previous interactions, favorite recipes, time of day, and ingredient preferences.  
 - **Tech Stack:** Node.js, Apollo Server (GraphQL), MySQL, React, Tailwind CSS, Hero UI  
 - **Links:** [Repo](#) · [Live Demo](#)
-#### 🔄 Automatic Unit Conversion Browser Extension
+#### Automatic Unit Conversion Browser Extension
 - **What it is:** Automatically converts values on websites to the user's preferred system (e.g., imperial → metric) based on location, with the option to change it manually.  
 - **Key Features:**
   - Supports unit conversions, including currency.  
