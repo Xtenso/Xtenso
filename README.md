@@ -32,7 +32,6 @@ Hi, my name is **Stefan**. I’m a web developer who works mostly with React and
   - Personalized recipe recommendations based on user preferences, previous interactions, favorite recipes, time of day, and ingredient preferences.  
 - **Tech Stack:** Node.js, Apollo Server (GraphQL), MySQL, React, Tailwind CSS, Hero UI  
 - **Links:** [Repo](#) · [Live Demo](#)
----
 #### 2. Automatic Unit Conversion Browser Extension
 - **What it is:** Automatically converts values on websites to the user's preferred system (e.g., imperial → metric) based on location, with the option to change it manually.  
 - **Key Features:**
