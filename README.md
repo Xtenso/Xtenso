@@ -34,7 +34,7 @@ Hi, my name is **Stefan**. I’m a web developer who works mostly with React and
   Currently Working On
 </h3>
 <p align="right">
-  Building tools · Expanding full-stack skills · Exploring emerging frameworks  
+  Automatic unit conversion browser extension · Calendar website for local events · Exploring Svelte 
 </p>
 
 ### <img src="./assets/link.svg" width="20" /> Socials
