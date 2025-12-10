@@ -23,18 +23,30 @@ Hi, my name is **Stefan**. I’m a web developer who works mostly with React and
 </div>
 
 ### <img src="./assets/folder.svg" width="20" /> Featured Projects
-- **Project A**
-  - short description
-  - [Repo](#) · [Live Demo](#)
-- **Project B** — short description  
-- **Project C** — short description
+#### 🥘 Smart Recipe Social Platform
+- **What it is:** A social platform where registered users can add and save favorite recipes.  
+- **Key Features:**
+  - Adding recipes requires selecting products from a list of over 1,500 ingredients, each with dietary info, energy values, and more.  
+  - Filter recipes based on dietary preferences.  
+  - Smart search: understands queries, applies filters automatically, and removes unnecessary keywords.  
+  - Personalized recipe recommendations based on user preferences, previous interactions, favorite recipes, time of day, and ingredient preferences.  
+- **Tech Stack:** Node.js, Apollo Server (GraphQL), MySQL, React, Tailwind CSS, Hero UI  
+- **Links:** [Repo](#) · [Live Demo](#)
+#### 🔄 Automatic Unit Conversion Browser Extension
+- **What it is:** Automatically converts values on websites to the user's preferred system (e.g., imperial → metric) based on location, with the option to change it manually.  
+- **Key Features:**
+  - Supports unit conversions, including currency.  
+  - Can disable conversions for specific websites or pages.  
+  - Fully automated and context-aware.  
+- **Tech Stack:** WXT (Modern Extension Framework)  
+- **Links:** [Repo](#) · [Live Demo](#)
 
 <h3 align="right">
   <img src="./assets/bulb.svg" width="20" /> 
   Currently Working On
 </h3>
 <p align="right">
-  Automatic unit conversion browser extension · Calendar website for local events · Exploring Svelte 
+  Browser extension with tools for UI/UX designers · Calendar website for local events · Exploring Svelte 
 </p>
 
 ### <img src="./assets/link.svg" width="20" /> Socials
